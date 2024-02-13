@@ -1,3 +1,4 @@
+
 // Variables útiles
 var precio_base = 2000;
 
